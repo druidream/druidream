@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🎯 Focusing on native iOS development with SwiftUI
 
 ![](https://raw.githubusercontent.com/druidream/cf-stats/main/output/light_card.svg)
 <!--
